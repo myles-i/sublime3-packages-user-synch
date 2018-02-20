@@ -1,0 +1,210 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tri",
+				"trial"
+			],
+			[
+				"System",
+				"System_jntspace_pvt_traj_state"
+			]
+		]
+	},
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 173.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"isnta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 741.0
+	},
+	"console":
+	{
+		"height": 301.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/H/SystemState/ManipState.m",
+		"/C/Users/miribarne/AppData/Roaming/Sublime Text 3/Packages/User/sysg7x_trunk1.sublime-project",
+		"/C/svn_root/sysg7x_trunk1/MatlabSys/Interface/Kernel/KeyDecls/System_js_defs.m",
+		"/C/svn_root/sysg7x_trunk1/algorithm/kernel/ReglobOutput/sys_par_struct.h",
+		"/C/svn_root/sysg7x_trunk1/algorithm/kernel/ReglobOutput/sys_tfr_struct.h",
+		"/C/svn_root/sysg7x_trunk1/algorithm/kernel/ReglobOutput/sys_state_struct.h",
+		"/C/Users/miribarne/Desktop/EndToEndTest/processUSMTooltipCalData.m",
+		"/C/svn_root/sysg7x_trunk1/algorithm/kernel/shared/src/pvttraj_gen.c",
+		"/C/Users/miribarne/.linux-build-credentials",
+		"/C/svn_root/sysg7x_trunk1/bootloaders/tboot/tboot/include/tpm_20.h",
+		"/C/svn_root/sysg7x_trunk1/PythonSys/utilities/config/connector.py",
+		"/C/Users/miribarne/AppData/Roaming/Sublime Text 3/Packages/User/clang_format.sublime-settings",
+		"/C/Users/miribarne/AppData/Roaming/Sublime Text 3/Packages/Clang Format/clang_format.sublime-settings",
+		"/C/Users/miribarne/AppData/Roaming/Sublime Text 3/Packages/User/clang_format_custom.sublime-settings"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"TRAJSRC_LIMITED_LOCK",
+			"TRAJ\t",
+			"TRAJ",
+			"BRAKE",
+			"TRAJSRC",
+			"TRAJ",
+			"BRAKE_",
+			"BRAKE_SUJ_RELEASE",
+			"FLOAT",
+			",\n",
+			"(\n",
+			"par",
+			"move_",
+			"move_enable",
+			"memCoeffReverse",
+			"memRingPos",
+			"servoPeriod"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"replace":
+	{
+		"height": 53.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"param_d",
+				"shared\\src\\param_def.h"
+			],
+			[
+				"kernel_shared",
+				"algorithm\\kernel\\xface\\kernel_shared_defs.h"
+			],
+			[
+				"psm_de",
+				"algorithm\\kernel\\xface\\psm_defs.h"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 418.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
